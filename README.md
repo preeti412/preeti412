@@ -1,7 +1,7 @@
 - 👋 Hi, I’m preeti
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning software testing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in this field
 - 📫 How to reach me ...
 
 <!---
