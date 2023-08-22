@@ -1,10 +1,10 @@
-- 👋 Hi, I’m preeti
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning software testing
-- 💞️ I’m looking to collaborate in this field
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm preeti</h1>
+<h3 align="center">A passionate software tester from India</h3>
 
-<!---
-preeti412/preeti412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **software testing course**
+
+- 💬 Ask me about **manualtesting,java,sql,selenium,css,html**
+
+- 📫 How to reach me **preetidiggi6@gmail.com**
+
+
